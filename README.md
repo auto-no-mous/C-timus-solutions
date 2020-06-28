@@ -1,1 +1,1 @@
-This files got "Accepted" on https://acm.timus.ru/
+These files got "Accepted" on https://acm.timus.ru/
