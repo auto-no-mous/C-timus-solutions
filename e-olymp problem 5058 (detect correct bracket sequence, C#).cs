@@ -1,4 +1,4 @@
-﻿//solution to https://www.e-olymp.com/ru/problems/5058
+//solution to https://www.e-olymp.com/ru/problems/5058
 //solved with using self-written stack, as example for data structures
 
 using System;
