@@ -1,5 +1,5 @@
-﻿// https://acm.timus.ru/problem.aspx?space=1&num=1082
-// meaningless decision, but accepted
+// https://acm.timus.ru/problem.aspx?space=1&num=1082
+// meaningless solution, but accepted
 
 #include <iostream>
 using namespace std;
