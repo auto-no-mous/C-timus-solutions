@@ -1,4 +1,5 @@
-﻿#include <iostream>
+// https://acm.timus.ru/problem.aspx?space=1&num=1001
+#include <iostream>
 #include <list>
 #include <cmath>
 
